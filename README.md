@@ -1,2 +1,2 @@
 # algorithm-learning
-算法联系
+算法练习
