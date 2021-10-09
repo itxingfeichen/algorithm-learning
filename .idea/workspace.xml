@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3231fbb6-ae79-43c2-8a0b-abd8ed5befbd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1z3z57beNKay6WTq7v5ptzJzN3W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.algorithm.a1006" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.algorithm.a1009" />
+      <recent name="com.algorithm.a1007" />
+      <recent name="com.algorithm.a1006" />
+      <recent name="com.algorithm" />
+      <recent name="com.algorithm.linkedlist" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.algorithm.a1007" />
+      <recent name="com.algorithm" />
+      <recent name="com.algorithm.linkedlist.common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AddTwoNumbersTest.addTwoNumbersCase3">
+    <configuration name="AddTwoNumbersTest.addTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.a1009.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.a1009" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.a1009.AddTwoNumbersTest" />
+      <option name="METHOD_NAME" value="addTwoNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumbersTest.addTwoNumbersCase2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.a1009.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.a1009" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.a1009.AddTwoNumbersTest" />
+      <option name="METHOD_NAME" value="addTwoNumbersCase2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumbersTest.addTwoNumbersCase3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.a1009.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.a1009" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.a1009.AddTwoNumbersTest" />
+      <option name="METHOD_NAME" value="addTwoNumbersCase3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LevelOrderTest.levelOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.a1007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.a1007" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.a1007.LevelOrderTest" />
+      <option name="METHOD_NAME" value="levelOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostOrderTest.postOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.a1007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.algorithm.a1007" />
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.a1007.PostOrderTest" />
+      <option name="METHOD_NAME" value="postOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AddTwoNumbersTest.addTwoNumbersCase3" />
+        <item itemvalue="JUnit.AddTwoNumbersTest.addTwoNumbersCase2" />
+        <item itemvalue="JUnit.AddTwoNumbersTest.addTwoNumbers" />
+        <item itemvalue="JUnit.LevelOrderTest.levelOrder" />
+        <item itemvalue="JUnit.PostOrderTest.postOrder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3231fbb6-ae79-43c2-8a0b-abd8ed5befbd" name="Changes" comment="" />
+      <created>1633391374839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633391374839</updated>
+      <workItem from="1633391376461" duration="14902000" />
+      <workItem from="1633486325098" duration="30816000" />
+      <workItem from="1633661981970" duration="328000" />
+      <workItem from="1633662327460" duration="2584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/a1005/ArrayPivotIndex.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/a1005/RemoveDupNum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/a1006/FindSubSequence.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/a1009/AddTwoNumbers.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
